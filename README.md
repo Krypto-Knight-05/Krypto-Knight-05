@@ -34,7 +34,7 @@ Learning never stops — I’m always working on refining my code quality, expan
 
 > *(More coming soon!)*
 
-- 🔐 [Form Validation]https://github.com/Krypto-Knight-05/Spotify-Clone – JavaScript Music Player (Spotify-Inspired)
+- 🎧 [Music Player](https://github.com/Krypto-Knight-05/Spotify-Clone) – JavaScript Music Player (Spotify-Inspired)
 - 🎨 [Color Palette Generator](https://github.com/Krypto-Knight-05/colour-palette-generator) – Random color generator using JavaScript
 
 ---
