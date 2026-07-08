@@ -67,18 +67,17 @@
 *   **AI Manthan Hackathon:** Earned 2nd Place at IIIT Delhi for engineering an impactful civic tech solution.
 *   **Academic Excellence:** Achieved All India Rank (AIR) 3905 out of over 1.2 million candidates in the JEE Main examinations.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Krypto-Knight-05">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krypto-Knight-05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krypto-Knight-05&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Krypto-Knight-05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krypto-Knight-05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <h3>Top Languages & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,postgres,prisma,redux,git,github,vercel&theme=dark&perline=7" alt="Arnav's Tech Stack" />
   </a>
 </div>
