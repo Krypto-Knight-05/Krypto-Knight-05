@@ -1,58 +1,84 @@
-<h1 align="center">Hi 👋, I'm Arnav Bansal</h1>
-<p align="center">
-  🚀 First-year undergrad | 💻 Web & C++ Enthusiast | 🌱 Open Source Learner
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8e/47/2a/8e472a15993d09a0a4c7e6eb5c7dd800.gif" width="100%">
+</div>
 
----
+# <div align="center">Arnav Bansal</div>
 
-### 🧠 About Me
+<div align="center">
+  <p>Full-Stack Developer | Competitive Programmer | DTU Undergrad</p>
+  <a href="mailto:bansalarnav.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arnav-bansal-175968314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Arnav_Bansal_546/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Arnav_Bansal_546"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+</div>
 
-I'm a first-year engineering student with a strong foundation in **C++ (DSA)** and a growing interest in **full-stack web development**. I enjoy solving real-world problems through code and am currently exploring open-source communities and internship opportunities.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I'm actively preparing for:
-- **Internships** that allow me to apply my problem-solving and dev skills
-- **Google Summer of Code (GSoC)** and other open-source programs
-- **Hackathons**, where I'm eager to collaborate, build fast, and learn by doing
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Who Am I
+*   B.Tech Computer Science undergraduate at Delhi Technological University (DTU) maintaining a 9.845 CGPA.
+*   My engineering focus lies deeply in architecting highly scalable, real-time full-stack applications and seamlessly integrating intelligent AI-driven APIs.
+*   I thrive on solving complex algorithmic challenges, actively refining my data structures knowledge to build optimized, zero-latency user experiences.
 
-Learning never stops — I’m always working on refining my code quality, expanding my tech stack, and contributing meaningfully.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Experience
 
----
+**CS, SIG & Logistics Coordinator**
+*@ IEEE DTU (June 2026 - Present)*
+* Spearhead technical operations and logistical planning for massive university coding events, including Vihaan and CryptoForge.
+* Manage and structure Special Interest Groups (SIGs) to foster a community of collaborative student developers, ensuring smooth execution of technical initiatives.
 
-### 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Technology Arsenal
 
----
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, JavaScript, SQL, HTML, CSS |
+| **Frameworks** | React.js, Node.js, Express.js, Socket.IO, Vite, Redux |
+| **Databases & ORMs** | MongoDB, PostgreSQL, Prisma |
+| **Tools & Cloud** | Git, GitHub, Vercel, Render, JWT, Zod, Passport.js |
+| **Core Competencies** | DSA, System Design, OOPS, OS, DBMS, Computer Networks |
 
-### 📌 Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-> *(More coming soon!)*
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Projects
 
-- 🎧 [Music Player](https://github.com/Krypto-Knight-05/Spotify-Clone) – JavaScript Music Player (Spotify-Inspired)
-- 🎨 [Color Palette Generator](https://github.com/Krypto-Knight-05/colour-palette-generator) – Random color generator using JavaScript
+**CV Pilot**
+> A highly responsive, zero-dependency live resume builder achieving sub-50ms render times. Integrated the Google Gemini 2.0 Flash API for intelligent PDF parsing and instant ATS compatibility scoring. Slashed server costs and latency by implementing local client-side PDF generation via html2pdf.js.
 
----
+**TeamChat**
+> A real-time collaboration ecosystem powered by a layered backend architecture. Established persistent, bidirectional WebSocket connections utilizing Socket.IO to achieve sub-20ms latency. Enforced 100% type-safe database operations with Prisma ORM on PostgreSQL, alongside strict REST endpoint validation using Zod and secure JWT handshakes.
 
-### 📊 GitHub Stats
+**Doodle**
+> A high-performance collaborative digital canvas engineered with the MERN stack and Canvas API. Synchronizes instant drawing states across users at a flawless 60 FPS utilizing Socket.IO. Features a robust authentication flow combining HTTP-only JWT cookies and Google OAuth 2.0 via Passport.js.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krypto-Knight-05&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krypto-Knight-05&layout=compact&theme=tokyonight" height="150px"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Coding Profiles & Achievements
 
-### 📫 Connect With Me
+### 💻 Profiles
+*   **Codeforces:** [Arnav_Bansal_546](https://codeforces.com/profile/Arnav_Bansal_546) | Specialist (Max Rating: 1420) | Top Global Ranks: 689, 2133, 2997
+*   **LeetCode:** [Arnav_Bansal_546](https://leetcode.com/u/Arnav_Bansal_546/) | 300+ Problems Solved | Focused heavily on advanced data structures and runtime optimizations.
+*   **LinkedIn:** [Arnav Bansal](https://www.linkedin.com/in/arnav-bansal-175968314/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arnav-bansal-175968314/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Krypto-Knight-05)
+### 🏆 Hackathons & Milestones
+*   **Hack4Delhi (MCD):** Secured 3rd Position out of 1600+ competing teams at Bharat Mandapam.
+*   **AI Manthan Hackathon:** Earned 2nd Place at IIIT Delhi for engineering an impactful civic tech solution.
+*   **Academic Excellence:** Achieved All India Rank (AIR) 3905 out of over 1.2 million candidates in the JEE Main examinations.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-*Thanks for visiting my profile! Stay tuned for more projects.*
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Krypto-Knight-05">
+    <img src="https://github-readme-stats.vercel.app/api?username=Krypto-Knight-05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/Krypto-Knight-05">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krypto-Knight-05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
